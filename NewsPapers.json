@@ -1,0 +1,72 @@
+{
+  "cnn": {
+    "link": "http://edition.cnn.com/"
+  },
+  "bbc": {
+    "link": "http://www.bbc.com/"
+  },
+  "theguardian": {
+    "rss": "https://www.theguardian.com/uk/rss",
+    "link": "https://www.theguardian.com/us"
+  },
+  "breitbart": {
+    "link": "http://www.breitbart.com/"
+  },
+  "infowars": {
+    "link": "https://www.infowars.com/"
+  },
+  "foxnews": {
+    "link": "http://www.foxnews.com/"
+  },
+  "nbcnews": {
+    "link": "http://www.nbcnews.com/"
+  },
+  "washingtonpost": {
+      "link": "https://www.washingtonpost.com/"
+  },
+  "theonion": {
+    "link": "http://www.theonion.com/"
+  },
+    "espn":{
+      "link": "http://www.espn.com/"
+    },
+    "NDTV" :{
+        "link": "https://www.ndtv.com/"
+    },
+    "alzazeera" :{
+       "link" : "https://www.aljazeera.com/"
+    },
+    "zeenews" :{
+        "link" : "http://zeenews.india.com/"
+    },
+    "abcnews": {
+    "link" : "http://www.abc.net.au/news/newschannel/"
+    },
+"indiatoday":{
+      "link": "https://www.indiatoday.in/"
+    },
+"Zeebusiness":{
+      "link": "http://www.zeebiz.com/"
+    },
+"IndiaTV":{
+      "link": "https://www.indiatvnews.com/"
+    },
+"ddnews":{
+      "link": "http://www.ddinews.gov.in/"
+    },
+"newsworldindia":{
+      "link": "http://www.newsworldindia.in/"
+    },
+"news24":{
+      "link": "http://www.news24online.com/"
+    },
+"bloomberg":{
+      "link": "https://www.bloombergquint.com/"
+    },
+"wionews":{
+      "link": "http://www.wionews.com/"
+    },
+"odishatv":{
+      "link": "http://odishatv.in/"
+    }
+}
