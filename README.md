@@ -1,6 +1,7 @@
 # News Article Web Scrapping and Sentiment Analysis
 
-## Overview: This project contains full code for 'How to scrap the news article from websites and their sentiment analysis'. Once scrapping is done, then we have used Lemmatization, Stemming, Vectorization techniques to analyze the sentiments and behaviors.
+## Overview: 
+This project contains full code for 'How to scrap the news article from websites and their sentiment analysis'. Once scrapping is done, then we have used Lemmatization, Stemming, Vectorization techniques to analyze the sentiments and behaviors.
 
 ## Usage:
 For News Article scraping -
