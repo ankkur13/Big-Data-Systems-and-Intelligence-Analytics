@@ -10,7 +10,7 @@ For sentiment analysis and Machine Learning -
 Run the file 'CSYE 7245- Big-Data Systems & Intelligence Analytics Project.ipynb'
 
 ## Credits : 
-Credit for the vast majority of support, tech-direction and guidance here goes to @mentionnikbearbrown
+Credit for the vast majority of support, tech-direction, course material and guidance here goes to https://github.com/nikbearbrown
 
 ## Comments : 
 For feedback and comments, please reach out to me at ankkur13@gmail.com
