@@ -1,0 +1,4 @@
+CMD ["python", "./model_deployment_script.py", "awsUser", "awsPass"]
+
+sys.argv[0] -> AWS_ACCESS_KEY_ID	Required
+sys.argv[1] -> AWS_SECRET_ACCESS_KEY	Required
