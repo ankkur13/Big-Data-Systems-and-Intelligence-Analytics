@@ -23,7 +23,9 @@ import pickle
 import boto
 import boto.s3
 import sys
+import seaborn as sns
 from boto.s3.key import Key
+import matplotlib.pyplot as plt
 #nltk.download('wordnet')
 
 
@@ -32,7 +34,7 @@ def main_function():
 
 #function to ingest the data into dataframe
 def data_ingestion():
-    df=pd.read_csv('../home/Scrapped_content.csv',error_bad_lines=False)
+    df=pd.read_csv('Scrapped_content.csv',error_bad_lines=False)
     data_manipulation(df)
 
 #function to manipulate the data into dataframe
