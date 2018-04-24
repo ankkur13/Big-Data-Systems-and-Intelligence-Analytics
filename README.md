@@ -9,8 +9,9 @@ The file 'NewsPapers.json' contains news website links. This file will be used i
 For sentiment analysis and Machine Learning - 
 Run the file 'CSYE 7245- Big-Data Systems & Intelligence Analytics Project.ipynb'
 
-## Aricle:
-I have published an article on web scraping using python on medium. Here is the link - https://medium.com/@ankurjain_79625/how-did-i-scrape-news-article-using-python-6eff936b3c8c
+## Links:
+1. I have published an article on web scraping using python on medium. Here is the link - https://medium.com/@ankurjain_79625/how-did-i-scrape-news-article-using-python-6eff936b3c8c
+2. Here is the link of docker image - https://hub.docker.com/r/ankkur13/bigdatadockerimage/
 
 ## Credits : 
 Credit for the vast majority of support, tech-direction, course material and guidance here goes to https://github.com/nikbearbrown
